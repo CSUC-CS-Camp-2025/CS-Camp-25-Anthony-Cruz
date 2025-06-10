@@ -10,10 +10,20 @@ h1 {
 }
 
 #kitty{
-    width: 100px;
-    height: 100px;
     position: relative;
     top: 0;
     left: 0;
     filter: invert();
 }
+
+#gallery {
+    display: flex;
+}
+
+#gallery-picture {
+    padding: 10px;
+    height: auto;
+    width: auto;
+    object-fit: fit;
+}
+
