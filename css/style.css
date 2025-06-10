@@ -1,10 +1,19 @@
+body {
+    margin: 25px 25px 25px 25px;       
+    background-color: #E6E6FA;
+    font-family: "papyrus";
+}
+
+h1 {
+    color:white;
+    text-shadow: 2px 2px 4px black;
+}
+
 #kitty{
     width: 100px;
     height: 100px;
     position: relative;
     top: 0;
     left: 0;
-}
-#body {
-    color: blue;
+    filter: invert();
 }
