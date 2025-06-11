@@ -18,9 +18,12 @@ h1 {
 
 #gallery {
     display: flex;
+    width: 30%;
+    box-sizing: content-box;
 }
 
 #gallery-picture {
+    float: auto;
     padding: 10px;
     height: auto;
     width: auto;
