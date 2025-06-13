@@ -10,6 +10,10 @@ body {
     justify-content: space-between;
 }
 
+.topbar-item {
+    font-family: "georgia";
+}
+
 #gallery {
     display: flex;
     height: auto;
