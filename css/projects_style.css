@@ -1,0 +1,33 @@
+body {
+    margin: 0px 0px 0px 0px;       
+    background-color: #d9bee6;
+    font-family: "papyrus";
+}
+
+#topbar {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+#topbar h1, h6 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.topbar-item {
+    font-family: "georgia";
+    font-size: large;
+}
+
+nav {
+    align-self: center;
+}
+
+.nav-link {
+    color: black;
+    font-family: "georgia";
+    padding-left: 20px;
+}
