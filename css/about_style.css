@@ -31,3 +31,14 @@ nav {
     color: black;
     font-family: "georgia";
 }
+
+main {
+    background-color: white;
+    margin: 10px;
+}
+
+#aside-image {
+    float:right;
+    width: 200px;
+    height: 100%;
+}
