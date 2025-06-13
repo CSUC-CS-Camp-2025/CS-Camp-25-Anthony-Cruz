@@ -4,21 +4,24 @@ body {
     font-family: "papyrus";
 }
 
+#topbar {
+    display: flex;
+    flex-direction: row;
+}
+
+.topbar {
+    padding: 10px;
+}
+
 h1 {
     color:white;
     text-shadow: 2px 2px 4px black;
 }
 
-#kitty{
-    position: relative;
-    top: 0;
-    left: 0;
-    filter: invert();
-}
-
 #gallery {
     display: flex;
-    width: 30%;
+    height: auto;
+    width: auto;
     box-sizing: content-box;
 }
 
@@ -26,6 +29,6 @@ h1 {
     float: auto;
     padding: 10px;
     height: auto;
-    width: auto;
+    width: 30%;
 }
 
