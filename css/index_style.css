@@ -10,15 +10,6 @@ body {
     justify-content: space-between;
 }
 
-.topbar-item {
-    padding: 10px;
-}
-
-h1 {
-    color:white;
-    text-shadow: 2px 2px 4px black;
-}
-
 #gallery {
     display: flex;
     height: auto;
