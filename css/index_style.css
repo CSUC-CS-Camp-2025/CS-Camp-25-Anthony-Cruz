@@ -12,7 +12,7 @@ body {
 
 .topbar-item {
     font-family: "georgia";
-    text-size-adjust: large;
+    font-size: large;
 }
 
 .nav-link {
