@@ -12,11 +12,13 @@ body {
 
 .topbar-item {
     font-family: "georgia";
+    text-size-adjust: large;
 }
 
 .nav-link {
     text-decoration: none;
     color: black;
+    font-family: "georgia";
 }
 
 #gallery {
