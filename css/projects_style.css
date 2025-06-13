@@ -31,3 +31,12 @@ nav {
     font-family: "georgia";
     padding-left: 20px;
 }
+
+main {
+    padding: 25px;
+    background-color: white;
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    gap:50px;
+}
