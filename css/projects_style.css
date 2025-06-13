@@ -40,3 +40,8 @@ main {
     flex-direction: row;
     gap:50px;
 }
+
+.pride-image {
+    height: 100%;
+    width: 200px;
+}
