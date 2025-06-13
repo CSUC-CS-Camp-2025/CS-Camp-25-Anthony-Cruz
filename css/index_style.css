@@ -12,6 +12,11 @@ body {
     padding: 25px;
 }
 
+#topbar h1, h6 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
 .topbar-item {
     font-family: "georgia";
     font-size: large;
