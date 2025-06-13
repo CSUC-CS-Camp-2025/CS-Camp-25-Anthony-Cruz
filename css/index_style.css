@@ -29,4 +29,5 @@ nav {
 .nav-link {
     color: black;
     font-family: "georgia";
+    padding-left: 20px;
 }
