@@ -27,7 +27,6 @@ nav {
 }
 
 .nav-link {
-    text-decoration: none;
     color: black;
     font-family: "georgia";
 }
@@ -42,6 +41,6 @@ main {
 }
 
 #aside-image {
-    width: 500px;
+    width: 700px;
     height: 100%;
 }
