@@ -17,6 +17,10 @@ body {
     font-size: large;
 }
 
+nav {
+    align-self: center;
+}
+
 .nav-link {
     text-decoration: none;
     color: black;
