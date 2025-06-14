@@ -1,3 +1,8 @@
+@font-face {
+    font-family: kugile;
+    src: url(https://csuc-cs-camp-2025.github.io/CS-Camp-25-Anthony-Cruz/fonts/kugile.regular.ttf);
+}
+
 body {
     margin: 0px 0px 0px 0px;       
     background-color: #d9bee6;
@@ -40,8 +45,11 @@ nav {
     color: white;
     display: flex;
     flex-direction: column;
+    font-family: kugile;
 }
 
 .banner-item {
     margin: 0px;
+    padding: 20px;
+    font-size-adjust: 1.5;
 }
