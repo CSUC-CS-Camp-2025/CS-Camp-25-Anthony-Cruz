@@ -31,3 +31,8 @@ nav {
     font-family: "georgia";
     padding-left: 20px;
 }
+
+#banner {
+    width: 100%;
+    height: auto;
+}
