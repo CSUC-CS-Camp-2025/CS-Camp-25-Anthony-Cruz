@@ -48,8 +48,18 @@ nav {
     font-family: kugile;
 }
 
+#banner h1 {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#banner p {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    align-self: end;
+}
+
 .banner-item {
     margin: 0px;
-    padding: 20px;
     font-size-adjust: 1.5;
 }
