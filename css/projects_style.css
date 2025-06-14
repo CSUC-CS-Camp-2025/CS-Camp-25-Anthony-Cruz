@@ -41,6 +41,10 @@ main {
     gap:50px;
 }
 
+h1 {
+    font-family: "garamond";
+}
+
 #pride-section-images {
     display: flex;
     flex-direction: row;
