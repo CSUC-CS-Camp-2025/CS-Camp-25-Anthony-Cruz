@@ -1,7 +1,7 @@
 body {
     margin: 0px 0px 0px 0px;       
     background-color: #d9bee6;
-    font-family: "papyrus";
+    font-family: "didot";
 }
 
 #topbar {
@@ -36,4 +36,12 @@ nav {
     background-image: url(https://csuc-cs-camp-2025.github.io/CS-Camp-25-Anthony-Cruz/images/banner.jpg);
     width: 100%;
     height: auto;
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.banner-item {
+    margin: 0px;
 }
