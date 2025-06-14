@@ -33,7 +33,7 @@ nav {
 }
 
 #banner {
-    background-image: url(images/banner.jpg);
+    background-image: url(/images/banner.jpg);
     width: 100%;
     height: auto;
 }
