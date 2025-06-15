@@ -36,6 +36,9 @@ main {
     padding: 25px;
     background-color: white;
     margin: 15px;
+}
+
+#about {
     display: flex;
     flex-direction: row;
     gap:50px;
@@ -53,5 +56,5 @@ main {
 
 #aside-image {
     width: 700px;
-    height: 100%;
+    height: auto;
 }
