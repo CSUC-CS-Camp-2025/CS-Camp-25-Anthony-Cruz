@@ -41,6 +41,16 @@ main {
     gap:50px;
 }
 
+#about h1 {
+    margin-top: 0px;
+    font-size: 38px;
+    font-family: "georgia";
+}
+
+#about p {
+    font-size: 18px;
+}
+
 #aside-image {
     width: 700px;
     height: 100%;
