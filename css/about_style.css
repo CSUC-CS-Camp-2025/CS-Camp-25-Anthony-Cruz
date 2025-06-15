@@ -58,3 +58,20 @@ main {
     width: 700px;
     height: auto;
 }
+
+#hobbies {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    gap: 50px;
+}
+
+#hobbies-images img {
+    height: auto;
+}
+
+#hobbies-images {
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+}
