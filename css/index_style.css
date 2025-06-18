@@ -22,9 +22,15 @@ body {
     margin-bottom: 0px;
 }
 
-.topbar-item {
+header {
     font-family: "georgia";
     font-size: large;
+    transition: 
+    color 1s;
+}
+
+header:hover {
+    color: #bd2ff5;
 }
 
 nav {
