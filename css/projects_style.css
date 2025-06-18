@@ -22,9 +22,15 @@ header {
     font-size: large;
 }
 
-header a { 
+header a {
     text-decoration: none;
     color: black;
+    transition: 
+    color 1s;
+}
+
+header a:hover { 
+    color: #d9bee6;
 }
 
 nav {
