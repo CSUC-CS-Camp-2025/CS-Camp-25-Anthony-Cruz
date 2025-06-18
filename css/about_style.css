@@ -27,6 +27,15 @@ header a {
     color: black;
     transition: 
     color 1s;
+    display:flex;
+    flex-direction: row;
+    gap: 12px;
+}
+
+header img { 
+    align-self: flex-end;
+    height: 50px;
+    width: 50px;
 }
 
 header a:hover { 
@@ -44,9 +53,9 @@ nav {
 }
 
 main {
-    padding: 25px;
+    padding: 30px;
     background-color: white;
-    margin: 15px;
+    margin: 25px 50px 25px 50px;
 }
 
 #about {
