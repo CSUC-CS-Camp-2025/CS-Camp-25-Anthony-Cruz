@@ -17,9 +17,14 @@ body {
     margin-bottom: 0px;
 }
 
-.topbar-item {
+header {
     font-family: "georgia";
     font-size: large;
+}
+
+header a { 
+    text-decoration: none;
+    color: black;
 }
 
 nav {
