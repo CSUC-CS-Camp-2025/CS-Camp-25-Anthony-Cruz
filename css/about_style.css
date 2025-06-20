@@ -51,6 +51,15 @@ nav {
     color: black;
     font-family: "georgia";
     padding-left: 20px;
+    text-decoration: none;
+    font-size: large;
+    /* Animation */
+    transition: 
+    color 1s;
+}
+
+.nav-link:hover {
+    color: #d9bee6;
 }
 
 main {
