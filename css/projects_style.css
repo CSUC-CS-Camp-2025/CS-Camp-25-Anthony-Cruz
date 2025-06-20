@@ -59,6 +59,17 @@ main {
     display: flex;
     flex-direction: row;
     gap:50px;
+    /* Animation */
+    position: relative;
+    animation-name: slide;
+    animation-delay: 0s;
+    animation-duration: 0.7s;
+}
+
+/* keyframes for slide animation */
+@keyframes slide {
+    from {right: 200px; opacity: 0;}
+    to {right: 0px; opacity: 1};
 }
 
 #pride-section-images {

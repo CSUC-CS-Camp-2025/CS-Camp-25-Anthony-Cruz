@@ -2,6 +2,7 @@ body {
     margin: 0px 0px 0px 0px;       
     background-color: #d9bee6;
     font-family: "didot";
+    position: relative;
 }
 
 #topbar {
@@ -56,6 +57,17 @@ main {
     padding: 30px;
     background-color: white;
     margin: 25px 50px 25px 50px;
+    /* Animation */
+    position: relative;
+    animation-name: slide;
+    animation-delay: 0s;
+    animation-duration: 0.7s;
+}
+
+/* keyframes for slide animation */
+@keyframes slide {
+    from {right: 200px; opacity: 0;}
+    to {right: 0px; opacity: 1};
 }
 
 #about {
